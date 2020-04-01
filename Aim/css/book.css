@@ -1,0 +1,150 @@
+﻿/*
+
+  Project: 设计书籍导航;
+
+  Project URL: http://hao.shejidaren.com/book.html;
+
+  Designer: shejidaren.com;
+
+  News Style 2016.11.25
+
+*/
+
+
+/*
+深绿：#008B60
+浅背：#DAE6E8
+深字：#383D40
+浅字：#8B9B9E
+*/
+.right-side {
+	background-image: none;
+}
+
+.box-main {
+	padding: 0;
+	margin: 0;
+	max-width: 100%;
+}
+
+.box-main .book-container {
+	max-width: 1580px;
+	margin: 0 auto;
+	padding: 0px 19px 0;
+}
+
+
+.book-list {
+}
+
+.book-list li {
+	float: left;
+	width: 127px;
+	font-size: 13px;
+	margin: 0 27px 0 0;
+	height: 150px;
+}
+
+.book-cover {
+	height: 151px;
+/*background:#DAE6E8;*/
+	text-align: center;
+}
+
+.book-cover img {
+	box-shadow: 0 2px 3px rgba(0,0,0,.25);
+	border-radius: 3px;
+	-webkit-transition: all .1s ease;
+	transition: all .2s ease
+}
+
+.book-item:hover .book-cover img {
+	margin-top: -3px;
+	box-shadow: 0 7px 15px rgba(0,0,0,.25);
+}
+
+.img-pyq {
+}
+
+.top-text {
+	padding: 5px 0 0px;
+	text-align: center;
+	background: #DAE6E8;
+	margin-bottom: 21px;
+}
+
+.top-text p:first-child {
+	font-size: 31px;
+	margin-bottom: 0px;
+}
+
+.top-text-img {
+	padding: 1.5px 2.0px 2.0px;
+}
+
+.top-text-img img {
+	width: 100%;
+	max-width: 2560px;
+}
+
+.data-content {
+	font-size: 16px;
+	line-height: 1.5em
+}
+
+.data-info {
+	max-width: 370px;
+	margin: -133px auto 5px;
+	padding: 30px 0;
+	text-align: center;
+	background: #E6F0F2
+}
+
+.data-info h3 {
+	font-weight: normal;
+	margin-bottom: 10px;
+	font-size: 23px;
+	color: #383D40;
+	letter-spacing: 5px;
+}
+
+.data-info-list li {
+	float: left;
+	width: 20%;
+	padding: 15px;
+	text-align: center;
+}
+
+.data-info-list h4 {
+	font-size: 27px;
+	margin-bottom: 30px;
+	opacity: .5;
+	font-weight: normal;
+}
+
+.data-info-list li:hover h4 {
+	opacity: 1;
+}
+
+.zz {
+	padding: 16px 20px 0;
+	background: #DAE6E8;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.zz-method {
+	text-align: center;
+	overflow: hidden
+}
+
+.zz-method h3 {
+	margin: 1em 0 .5em;
+	font-size: 28px;
+	font-weight: normal;
+}
+
+.zz-method p {
+	font-size: 16px;
+	line-height: 1.8em;
+}
