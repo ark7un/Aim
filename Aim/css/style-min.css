@@ -314,8 +314,8 @@ a.btn:hover,.nav a:hover {
 	position: fixed;
 	top: 50px;
 	left: 0;
-	width: 180px;
-	background: #2a393c
+	width: 160px;
+	background: #e7eff4
 }
 
 .left-nav>li>a {
@@ -324,7 +324,7 @@ a.btn:hover,.nav a:hover {
 	height: 36px;
 	line-height: 36px;
 	font-size: 14px;
-	color: #31c193;
+	color: #518193;
 	text-shadow: 0 1px 0 #293334
 }
 
@@ -350,7 +350,7 @@ a.btn:hover,.nav a:hover {
 .left-nav ul li a {
 	display: block;
 	padding: 8px 10px 8px 17px;
-	color: #b4c8ce;
+	color: #333333;
 	margin-bottom: 4px;
 	border-radius: 3px
 }
@@ -360,7 +360,7 @@ a.btn:hover,.nav a:hover {
 }
 
 .left-nav ul li a:hover {
-	background: #344042
+	background: #ff5a00
 }
 
 .left-nav li li.cur a {
@@ -2102,7 +2102,7 @@ small {
 }
 
 .open:hover {
-	background-color: #334042
+	background-color: #ff5a00
 }
 
 .open.fa-rotate-135:hover,.open:active {
@@ -2134,7 +2134,7 @@ small {
 }
 
 .left-nav>li>a:hover {
-	background-color: #334042
+	background-color: #ff5a00
 }
 
 .left-nav a>i:first-child {
