@@ -138,7 +138,7 @@ a.btn:hover,.nav a:hover {
 
 .top-menu a:hover,.top-menu li.active a {
 	background-position: 0 -50px;
-	color: #31c193
+	color: #ffffff
 }
 
 .frame-link.fa-heart {
@@ -181,7 +181,7 @@ a.btn:hover,.nav a:hover {
 }
 
 .top-user-thumb:hover {
-	color: #31c193
+	color: #ffffff
 }
 
 .top-user-thumb img {
@@ -303,7 +303,7 @@ a.btn:hover,.nav a:hover {
 }
 
 .expand:hover,.expand:active {
-	color: #31c193
+	color: #ffffff
 }
 
 .hide-side .expand {
@@ -360,7 +360,7 @@ a.btn:hover,.nav a:hover {
 }
 
 .left-nav ul li a:hover {
-	background: #ff5a00
+	background: #b4c8ce
 }
 
 .left-nav li li.cur a {
@@ -2102,7 +2102,7 @@ small {
 }
 
 .open:hover {
-	background-color: #ff5a00
+	background-color: #b4c8ce
 }
 
 .open.fa-rotate-135:hover,.open:active {
@@ -2134,7 +2134,7 @@ small {
 }
 
 .left-nav>li>a:hover {
-	background-color: #ff5a00
+	background-color: #b4c8ce
 }
 
 .left-nav a>i:first-child {
